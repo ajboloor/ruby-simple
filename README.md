@@ -6,3 +6,4 @@ Modular Ruby scripts (quick copy-paste) for a plethora of things.
 ```
 sudo apt-get install ruby-full
 ```
+- Tested on Ubuntu 16.04
